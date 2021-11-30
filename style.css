@@ -12,7 +12,7 @@ body{
     z-index: 500;
     width: 100%;
     height: 80px;
-    background-image: url('Images/wood-bg.png');
+    background-image: url('images/wood-bg.png');
     background-repeat: repeat-x;
 }
 
@@ -81,7 +81,7 @@ body{
 
 #main{
     margin-top: 119px;
-    background-repeat: repeat-x;    
+    background-repeat: repeat-y;    
 }
 
 #content{
@@ -190,7 +190,7 @@ textarea{
 .button{
     display: block;
     width: 100%;
-    background-color: forestgreen;
+    background-color: navy;
     text-decoration: none;
     text-align: center;
     color: white;
